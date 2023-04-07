@@ -171,7 +171,3 @@
     * [Center Container](extensions/layout/12grid/Center-Container.md)
     * [Inline Group Container](extensions/layout/12grid/Inline-Group-Container.md)
     * [Flexbox Layout](extensions/layout/12grid/Flexbox-Layout.md)
-* [Solutions](extensions/solutions/README.md)
-  * [Sample Application](extensions/solutions/svySampleSolution/Home.md)
-    * [Tutorial Part 1](extensions/solutions/svySampleSolution/Tutorial.md)
-    * [Tutorial Part 2](extensions/solutions/svySampleSolution/Tutorial-Part-2.md)
