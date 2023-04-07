@@ -2,5 +2,5 @@
 description: Get the details
 ---
 
-# Reference Documentation
+# Guides Documentation
 
