@@ -1,4 +1,4 @@
-Welcome to the Servoy Tutorial !
+## Welcome to the Servoy Tutorial !
 
 Follow the sample tutorial. This tutorial introduces you to the essentials of Servoy by walking you through building a simple Web Application with a product catalog.
 # [Tutorial Part 1](Tutorial.md)
