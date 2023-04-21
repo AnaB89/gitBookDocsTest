@@ -1,5 +1,9 @@
 # test JSEvent
 
+<mark style="color:red;">**Change some text in this paragraph locally (in the md file), then sync and check the tables' column size getting reverted.**</mark>
+
+
+
 ## **Supported Clients**
 
 SmartClient\
