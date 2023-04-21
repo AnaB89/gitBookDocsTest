@@ -4,12 +4,13 @@
 
 ## Servoy Core
 
-* [Developer API](servoy-core/readme-1.md)
-* [Servoy Developer](servoy-core/page-3.md)
+* [Developer API](servoy-core/developer-api.md)
+* [Servoy Developer](servoy-core/servoy-developer.md)
 * [Servoy Cloud](servoy-core/servoy-cloud.md)
 * [Application Server](servoy-core/application-server.md)
 
 ## Extensions
+
 * [test JSEvent](extensions/test-JSEvent/JSEvent.md)
 * [UI Components](extensions/ui-components/README.md)
   * [Buttons and Text](extensions/ui-components/buttons-and-text/README.md)
@@ -25,7 +26,7 @@
     * [Split Pane](extensions/ui-components/form-containers/Split-Pane.md)
     * [TabPanel](extensions/ui-components/form-containers/Tab-panel.md)
   * [Grids](extensions/ui-components/grids/README.md)
-    * [Data Grid](extensions/ui-components/grids/Data-Grid_new.md)
+    * [Data Grid](extensions/ui-components/grids/Data-Grid\_new.md)
     * [Power Grid](extensions/ui-components/grids/Power-Grid.md)
     * [Table](extensions/ui-components/grids/Table.md)
   * [Input Controls](extensions/ui-components/input-controls/README.md)
@@ -159,11 +160,11 @@
     * [Excel Utils](extensions/modules/svyUtils/ExcelUtils.md)
     * [Full API Reference](extensions/modules/svyUtils/API-svyExcelUtils.md)
     * [Crypto Utils](extensions/modules/svyUtils/svyCrypto.md)
-  * [svyUtils$Excel](extensions/modules/svyUtils_Excel.md)
-  * [svyUtils$NGClient](extensions/modules/svyUtils_NGClient.md)
-  * [svyUtils$customDialogs](extensions/modules/svyUtils_customDialogs.md)
-  * [svyUtils$logManagerAppenders](extensions/modules/svyUtils_logManagerAppenders.md)
-  * [svyUtils$tableGrid](extensions/modules/svyUtils_tableGrid.md)
+  * [svyUtils$Excel](extensions/modules/svyUtils\_Excel.md)
+  * [svyUtils$NGClient](extensions/modules/svyUtils\_NGClient.md)
+  * [svyUtils$customDialogs](extensions/modules/svyUtils\_customDialogs.md)
+  * [svyUtils$logManagerAppenders](extensions/modules/svyUtils\_logManagerAppenders.md)
+  * [svyUtils$tableGrid](extensions/modules/svyUtils\_tableGrid.md)
 * [Layout](extensions/layout/README.md)
   * [Boostrap 12grid layout](extensions/layout/12grid/Home.md)
     * [Collapsible Container](extensions/layout/12grid/Collapsible-Container.md)
